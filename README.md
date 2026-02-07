@@ -100,6 +100,9 @@ voici démonstration: https://www.youtube.com/watch?v=SjKiScPOw-c
 
 Please check the landing page : https://elevate-erasmus-ai.lovable.app/?fbclid=IwY2xjawPzzeJleHRuA2FlbQIxMABicmlkETFERFB4UDZkTW1tTGNKYlB5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrxfOOLvuIskqnDiIlQQUFE2gkmvK1I40raJ0x3NNzdjyAPYwhiVCpzRdHvo_aem__zSzxKraCs5VlxnbTDa0eQ
 
+test ou voice agents : https://call-pal-express.lovable.app/?fbclid=IwY2xjawPzzwZleHRuA2FlbQIxMABicmlkETFERFB4UDZkTW1tTGNKYlB5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo_UsXRoM97u5rZmYwDsHusfngyOJk4lPdcicncddCLGZvOUz0W2l6QFzvl4_aem_uTcPqVfH5vAbXWJS9bWSmg
+
+
 
 
 ## L'Équipe
