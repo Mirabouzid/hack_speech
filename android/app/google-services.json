@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523419302184",
+    "project_id": "hate-to-harmony",
+    "storage_bucket": "hate-to-harmony.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523419302184:android:b63159c96e196493c7f81d",
+        "android_client_info": {
+          "package_name": "com.example.hack_speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523419302184-adncikquh0la93ocafmi8174ion8c2br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDtN2QSW5lxbYsc0mbTxS6yG2nCcpqcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523419302184-adncikquh0la93ocafmi8174ion8c2br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
